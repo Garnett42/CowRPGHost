@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CowRPG",
+"dataUrl": "CowRPG.data.unityweb",
+"asmCodeUrl": "CowRPG.asm.code.unityweb",
+"asmMemoryUrl": "CowRPG.asm.memory.unityweb",
+"asmFrameworkUrl": "CowRPG.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
